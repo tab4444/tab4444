@@ -1,4 +1,4 @@
-![MasterHead](https://www.canva.com/design/DAFc3swkV1w/daJEoiTyIkGbPYdzwTbePQ/watch?utm_content=DAFc3swkV1w&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+<img align="center" width="100%" src="./banner.png">
 
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFc3swkV1w&#x2F;view?utm_content=DAFc3swkV1w&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Foto De Fondo Para Linkedin Slogan Tecnológico Digital Verde y Negro</a> de Thiago Agustín Block
 <h1 align="center">Hi 👋, I'm Thiago Block</h1>
