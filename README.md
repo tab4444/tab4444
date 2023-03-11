@@ -1,6 +1,5 @@
 <img align="center" width="100%" src="./banner.png">
 
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFc3swkV1w&#x2F;view?utm_content=DAFc3swkV1w&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Foto De Fondo Para Linkedin Slogan Tecnológico Digital Verde y Negro</a> de Thiago Agustín Block
 <h1 align="center">Hi 👋, I'm Thiago Block</h1>
 <h3 align="center">A passionate frontend developer from Córdoba, Argentina.</h3>
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
