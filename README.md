@@ -1,4 +1,4 @@
-![MasterHead](https://giffiles.alphacoders.com/211/211099.gif)
+![MasterHead]<img align="center" width="100%" src="https://giffiles.alphacoders.com/211/211099.gif">
 <h1 align="center">Hi 👋, I'm Thiago Block</h1>
 <h3 align="center">A passionate frontend developer from Córdoba, Argentina.</h3>
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/thiago agustín block" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thiago agustín block" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thiago-agustín-block-97a139262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thiago agustín block" height="30" width="40" /></a>
 <a href="https://instagram.com/blocktab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="blocktab" height="30" width="40" /></a>
 </p>
 
