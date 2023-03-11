@@ -1,4 +1,4 @@
-<img align="center" margin="0 auto" width="100%" height="300px" src="https://giffiles.alphacoders.com/211/211099.gif">
+<img align="center" margin="0 auto" width="100%" height="500px" src="https://giffiles.alphacoders.com/211/211099.gif">
 <h1 align="center">Hi 👋, I'm Thiago Block</h1>
 <h3 align="center">A passionate frontend developer from Córdoba, Argentina.</h3>
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
