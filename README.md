@@ -1,7 +1,7 @@
-[![MasterHead](https://media.tenor.com/CzdMW7wnLn8AAAAM/coding.gif)]
+![MasterHead](https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif)
 <h1 align="center">Hi 👋, I'm Thiago Block</h1>
 <h3 align="center">A passionate frontend developer from Córdoba, Argentina.</h3>
-<img align="right" alt="coding" width="400" src="https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/CzdMW7wnLn8AAAAM/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tab4444&label=Profile%20views&color=0e75b6&style=flat" alt="tab4444" /> </p>
 
