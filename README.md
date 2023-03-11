@@ -1,4 +1,4 @@
-<div style="display="flex"; align-items="center";">
+<div style="display:flex; align-items:center;justify-content:center;">
   <img align="center" width="80%" src="https://giffiles.alphacoders.com/211/211099.gif">
 </div>
 <h1 align="center">Hi 👋, I'm Thiago Block</h1>
