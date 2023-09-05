@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **Roma Sport**
 
-- 🌱 I’m currently learning **React, Sass**
+- 🌱 I’m currently learning **Sass**
 
 - 📫 How to reach me **thiagoblock445@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16xvUKHjpCWq40Jy-LrBPfyO6ScbqEoCt/view?usp=sharing](https://drive.google.com/file/d/16xvUKHjpCWq40Jy-LrBPfyO6ScbqEoCt/view?usp=sharing)
+- 📄 Know about my experiences [)
 
 - ⚡ Fun fact **I'm quiet but proactive and looking for new opportunities to learn.**
 
